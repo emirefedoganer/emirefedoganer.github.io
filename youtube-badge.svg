@@ -1,0 +1,7 @@
+<svg width="140" height="41" viewBox="0 0 140 41" xmlns="http://www.w3.org/2000/svg">
+  <rect width="140" height="41" rx="8" fill="#FF0000"/>
+  <g transform="translate(50, 8)">
+    <!-- YouTube Play Button -->
+    <path d="M8 6l8 4v8l-8 4V6z" fill="#FFFFFF"/>
+  </g>
+</svg>
